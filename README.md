@@ -1,6 +1,6 @@
-# {{ name }}
-
-> {{ description }}
+# doteditor
+> Simple editor for graphviz DOT (.gv) files
+> https://cpietsch.github.io/doteditor/
 
 ## Build Setup
 
